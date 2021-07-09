@@ -66,13 +66,6 @@ DOMAIN-KEYWORD,co.uk
 DOMAIN-KEYWORD,uk-live
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.com
-# Netflix
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxvideo.net
 # > Spotify
 USER-AGENT,*Spotify*
 DOMAIN-SUFFIX,pscdn.co
