@@ -20,21 +20,6 @@ DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,dssott.com
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,global.edge.bamgrid.com
-# > Discovery+ IN
-USER-AGENT,discovery+
-DOMAIN-SUFFIX,litix.io
-DOMAIN-SUFFIX,discoveryplus.in
-DOMAIN,ap2-prod-images.disco-api.com
-DOMAIN,prod-realmservice.mercury.dnitv.com
-# > HBO GO Asia
-USER-AGENT,HBO%20GO%20PROD*
-DOMAIN-KEYWORD,hbogoasia
-DOMAIN-SUFFIX,hboasia.com
-DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN,hbolb.onwardsmg.com
-DOMAIN,hbounify-prod.evergent.com
-DOMAIN,bcbolthboa-a.akamaihd.net
-DOMAIN,dai3fd1oh325y.cloudfront.net
 # > Hulu
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
